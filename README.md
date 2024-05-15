@@ -24,4 +24,4 @@ iVision analytics firm has been provided with datasets related to Airbnb listing
 **Calculating Listing Age and Host Tenure:**
 - This objective entails computing the age of Airbnb listings and identifying hosts who have accumulated more than ten years of hosting expertise.
 
-  <iframe title="AirBnB_ProjectFile" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=e48c2408-d541-45a2-ba07-58331281b08c&autoAuth=true&ctid=b83a511a-e5da-44e1-a5bd-2b03fa460cd2" frameborder="0" allowFullScreen="true"></iframe>
+[Visualizations](https://app.powerbi.com/reportEmbed?reportId=e48c2408-d541-45a2-ba07-58331281b08c&autoAuth=true&ctid=b83a511a-e5da-44e1-a5bd-2b03fa460cd2)
